@@ -1,6 +1,6 @@
 # My solutions to NIO puzzles.
 
-![NIO Logo](NIO Logo.jpg)
+![NIO Logo](logo.jpg)
 
 ### Warning:
 My coding skills were limited the very first time I tried to compete.
